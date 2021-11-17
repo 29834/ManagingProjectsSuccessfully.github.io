@@ -131,5 +131,5 @@ Der Bearbeitungszeitraum wird über MS-Teams bekanntgegeben.
   - Nicht gleich nach Perfektionismus streben
   - Ein erster vollständiger Entwurf ist besser als ein perfekter Satz
   - Entwurf dann Stück für Stück überarbeiten
-* Die Beiträge sollen bestehendes und gesichertes Wissen abbilden (keine eigenen Interpretationen)
+* Die Beiträge sollen bestehendes und gesichertes Wissen abbilden (keine eigenen Interpretationeon)
 * Orientierung an Wikipedia
